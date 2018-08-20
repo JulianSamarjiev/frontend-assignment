@@ -1,0 +1,26 @@
+.Selection {
+  padding-right: 20px;
+  border-right: 1px solid lightgrey;
+  width: 25%;
+}
+
+.Selection-product-select {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.Selection-product-select input {
+  margin-right: 10px;
+}
+
+.Selection-product-select label {
+  font-size: 14px;
+}
+
+.Selection-product-features {
+  margin-top: 130px;
+}
+
+.Selection-product-features table {
+
+}

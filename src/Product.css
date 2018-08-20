@@ -1,0 +1,28 @@
+.Product {
+  padding: 0 20px;
+  width: 25%;
+}
+
+.Product-image {
+  width: 100%;
+}
+
+.Product-badges {
+  width: 25px;
+}
+
+.Product-name {
+  color: #3b99fc;
+  font-size: 14px;
+}
+
+.Product-price {
+  font-weight: 900;
+  font-size: 18px;
+  margin-top: 50px;
+}
+
+.Product-price-note {
+  font-size: 10px;
+  color: grey;
+}
